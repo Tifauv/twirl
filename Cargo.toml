@@ -1,0 +1,5 @@
+[package]
+name = twirl
+version = 0.0.1
+description = Two Watchers in Rust Land, a SAT implementation.
+authors = Olivier Serve <tifauv@gmail.com>
