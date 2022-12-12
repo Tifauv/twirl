@@ -1,0 +1,5 @@
+[package]
+name    = "twirl_checker"
+version = "0.1.0"
+description = "SAT Solution checker of the Twirl system"
+authors = [ "Olivier Serve <tifauv@gmail.com>" ]

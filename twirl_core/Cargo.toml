@@ -1,0 +1,5 @@
+[package]
+name    = "twirl_core"
+version = "0.1.0"
+description = "Core library of the Twirl SAT system"
+authors = [ "Olivier Serve <tifauv@gmail.com>" ]

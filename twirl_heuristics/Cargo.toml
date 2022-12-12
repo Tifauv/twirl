@@ -1,0 +1,5 @@
+[package]
+name    = "twirl_heuristics"
+version = "0.1.0"
+description = "Various heuristics usable with the Twirl SAT system"
+authors = [ "Olivier Serve <tifauv@gmail.com>" ]

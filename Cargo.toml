@@ -1,5 +1,8 @@
-[package]
-name = twirl
-version = 0.0.1
-description = Two Watchers in Rust Land, a SAT implementation.
-authors = Olivier Serve <tifauv@gmail.com>
+#[package]
+#name = "twirl"
+#version = "0.0.1"
+#description = "Two Watchers in Rust Land, a SAT implementation."
+#authors = [ "Olivier Serve <tifauv@gmail.com>" ]
+
+[workspace]
+members = [ "twirl_core", "twirl_heuristics", "twirl_listeners", "twirl_solver", "twirl_checker" ]
